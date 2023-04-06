@@ -11,7 +11,7 @@ export const FeedbackOptions = ({ options, onLeaveFeedback }) => {
                 name={option}
                 key={nanoid()} >
                 {option.charAt(0).toUpperCase() + option.slice(1)}
-                </ButtonFeedback>
+            </ButtonFeedback>
     )
     })
 }

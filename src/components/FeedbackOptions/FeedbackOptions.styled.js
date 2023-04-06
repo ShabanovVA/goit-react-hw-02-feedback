@@ -9,7 +9,7 @@ width: 90px;
 border: 1px black solid;
 border-radius:5px;
 cursor:pointer;
-background-color: transparant;
+background-color: transparent;
 transition: background-color 300ms cubic-bezier(0.4, 0, 0.2, 1);
 
 
